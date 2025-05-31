@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.firstpage{
+    background-image: url("./image/wave.svg");
+}
+.activate{
+    display: block;
+
+}
+.nonactive{
+display: none;
+}
+.lol{
+    height: 500px;
+}
+.over{
+    overflow: hidden
+    }
+.home{
+    
+   
+    background-image: url("./image/backcomp.jpg");
+}
+.ggg{
+    color: blue;
+}
